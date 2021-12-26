@@ -1,6 +1,6 @@
 Hi All!
 
-My name is Kenneth and I'm an undergraduate completing a double major in Business Administration and Statistics and Machine Learning (Business Administration is the first major and Statistics and Machine Learning is the second major). I'm interested in pursuing a career in data analysis and data science, and am currently working on projects to showcase my skills. 
+My name is Kenneth and I'm an undergraduate completing a double major in Business Administration and Statistics and Machine Learning. I'm interested in pursuing a career in data analysis and data science, and am currently working on projects to showcase my skills. 
 
 My interests are video games, superhero movies, and anime, so you can expect projects relating to these topics coming soon! 
 
